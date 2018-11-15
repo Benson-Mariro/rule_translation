@@ -7,16 +7,6 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
-'Paste all the following code in Thisworkbook module of your spreadsheet workbook
-'Normally done through Developer Menu => Visual Basic
-
-'Program author: Bennett Kankuzi
-'PhD student in Computer Science, School of Computing, University of Eastern Finland (Joensuu Campus)
-'Email: bfkankuzi@gmail.com
-'Supervised by: Prof. Jorma Sajaniemi
-'Email: saja@cs.uef.fi
-'Date: 10th June 2014
-
 Option Explicit
 Option Compare Text
 
