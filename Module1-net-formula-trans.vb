@@ -1,4 +1,6 @@
-Attribute VB_Name = "Module1"
+'Copyright 2018 Benson Mariro and Bennett Kankuzi, Dept of Computer Science, North-West University, South Africa.
+'Code released under a Creative Commons Attribution 4.0 International Licence.
+
 Option Explicit
 Option Compare Text
 Dim colHeaderString As String
@@ -1152,4 +1154,7 @@ End Sub
 
 
 
-# rule_translation
+
+
+
+

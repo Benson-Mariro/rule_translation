@@ -1,21 +1,5 @@
-VERSION 1.0 CLASS
-BEGIN
-  MultiUse = -1  'True
-END
-Attribute VB_Name = "ThisWorkbook"
-Attribute VB_GlobalNameSpace = False
-Attribute VB_Creatable = False
-Attribute VB_PredeclaredId = True
-Attribute VB_Exposed = True
-'Paste all the following code in Thisworkbook module of your spreadsheet workbook
-'Normally done through Developer Menu => Visual Basic
-
-'Program author: Bennett Kankuzi
-'PhD student in Computer Science, School of Computing, University of Eastern Finland (Joensuu Campus)
-'Email: bfkankuzi@gmail.com
-'Supervised by: Prof. Jorma Sajaniemi
-'Email: saja@cs.uef.fi
-'Date: 10th June 2014
+'Copyright 2018 Benson Mariro and Bennett Kankuzi, Dept of Computer Science, North-West University, South Africa.
+'Code released under a Creative Commons Attribution 4.0 International Licence.
 
 Option Explicit
 Option Compare Text
@@ -898,4 +882,3 @@ End Sub
 
 
 
-# rule_translation
